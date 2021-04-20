@@ -1,6 +1,12 @@
 # Live-face-detection
 
-So This web app i created using Django Framework.
-So The main file is Opencv_webapp.
-So just to run this complete webapp download complete file and save in a folder or just download my folder.
-and to run it just move to my folder using terminal and run it by python manage.py runserver.
+So This one i created a live facedetection using opencv.
+So as we know opencv has lots of pretrained classifier as for face,hand,smile etc .
+So in this i used (haarcascade_frontalface_default) classifier for face to detect.
+
+
+Prerequisite to run this program.
+Just need a supportable pythpon ide
+and make sure that opencv is installed on system 
+and do make sure to import important library
+after running the program the camera can be end by pressing (esc)
