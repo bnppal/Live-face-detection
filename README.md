@@ -10,3 +10,8 @@ Just need a supportable pythpon ide
 and make sure that opencv is installed on system 
 and do make sure to import important library
 after running the program the camera can be end by pressing (esc)
+
+
+Files to open :
+The live_detect.py file is for live face detection. 
+The face_detect.py file is for the image face detection.
